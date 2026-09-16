@@ -85,7 +85,7 @@ The goal of this thesis was to apply instance segmentation (supervised) in a dev
     <img src="figures/zelllinienstammbaum_e2_02.png" alt="" width="600" height="550"/>
 </div>
 <div align="center">
-    <em>Fig. 5: Scatter plots of training history of the Training of Embryo I. Left: Verlust-Zeit-Diagramm (engl. Loss-Time-Diagram). Right: Genauigkeits-Zeit-Diagramm (engl. Precision-Time-Diagram).</em>
+    <em>Fig. 5: Spatial distribution (in µm³) of the tracked blastomeres.</em>
 </div>
 
 ### Cell Nuclei Volume over Time from Embryo 2
@@ -103,7 +103,7 @@ The goal of this thesis was to apply instance segmentation (supervised) in a dev
 </tr>
 </table>
 <div align="center">
-    <em>Fig. 6: Left: Zygote before the first splits. Middle: Both blastomeres of the first division (AB & CD). Right: Four blastomeres of the second division (A & B & C & D).</em>
+    <em>Fig. 6: Top-Left: Zygote before the first splits. Top-Right: Both blastomeres of the first division (AB & CD). Bottom-Left: Four blastomeres of the second division (A & B & C & D).</em>
 </div>
 
 ### Cell Nuclei Volume Comparison of Both Embryos over Time
@@ -121,5 +121,5 @@ The goal of this thesis was to apply instance segmentation (supervised) in a dev
 </tr>
 </table>
 <div align="center">
-    <em>Fig. 7: Embryo Comparison.</em>
+    <em>Fig. 7: Embryo Comparison of third division. Top-Left: A cell., left Embryo 1, right Embryo 2. Top-Right: B cell, left Embryo 1, right Embryo 2. Bottom-Left: C cell, left Embryo 1, right Embryo 2. Bottom-Right: A cell, left Embryo 1, right Embryo 2.</em>
 </div>
