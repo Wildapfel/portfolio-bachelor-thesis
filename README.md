@@ -121,5 +121,5 @@ The goal of this thesis was to apply instance segmentation (supervised) in a dev
 </tr>
 </table>
 <div align="center">
-    <em>Fig. 7: Embryo Comparison of third division. Top-Left: A cell., left Embryo 1, right Embryo 2. Top-Right: B cell, left Embryo 1, right Embryo 2. Bottom-Left: C cell, left Embryo 1, right Embryo 2. Bottom-Right: A cell, left Embryo 1, right Embryo 2.</em>
+    <em>Fig. 7: Embryo Comparison of third division. Top-Left: A cell., left Embryo 1, right Embryo 2. Top-Right: B cell, left Embryo 1, right Embryo 2. Bottom-Left: C cell, left Embryo 1, right Embryo 2. Bottom-Right: D cell, left Embryo 1, right Embryo 2.</em>
 </div>
