@@ -64,12 +64,12 @@ The goal of this thesis was to apply instance segmentation (supervised) in a dev
 - History of the training from the model on embryo I
 - The generalization was not optimal, still applicable for the purpose of this thesis
 
-<div align="center">
-    <img src="figures/Velust-Zeit-Diagramm.png" alt="" width="500" height="450"/>
-</div>
-<div align="center">
-    <img src="figures/Genauigkeits-Zeit-Diagramm.png" alt="" width="500" height="450"/>
-</div>
+<table align="center">
+<tr>
+<td align="center"><img src="figures/Velust-Zeit-Diagramm.png" alt="" width="350" height="350"/></td>
+<td align="center"><img src="figures/Genauigkeits-Zeit-Diagramm.png" alt="" width="350" height="350"/></td>
+</tr>
+</table>
 <div align="center">
     <em>Fig. 4: Scatter plots of training history of the Training of Embryo I. Left: Verlust-Zeit-Diagramm (engl. Loss-Time-Diagram). Right: Genauigkeits-Zeit-Diagramm (engl. Precision-Time-Diagram).</em>
 </div>
@@ -79,10 +79,10 @@ The goal of this thesis was to apply instance segmentation (supervised) in a dev
 - The maximum spatial distribution (in µm³) of the tracked blastomeres in embryo 2 mapped onto the cell lineage (from tracking).
 
 <div align="center">
-    <img src="figures/zelllinienstammbaum_e2_01.png" alt="" width="500" height="450"/>
+    <img src="figures/zelllinienstammbaum_e2_01.png" alt="" width="600" height="550"/>
 </div>
 <div align="center">
-    <img src="figures/zelllinienstammbaum_e2_02.png" alt="" width="500" height="450"/>
+    <img src="figures/zelllinienstammbaum_e2_02.png" alt="" width="600" height="550"/>
 </div>
 <div align="center">
     <em>Fig. 5: Scatter plots of training history of the Training of Embryo I. Left: Verlust-Zeit-Diagramm (engl. Loss-Time-Diagram). Right: Genauigkeits-Zeit-Diagramm (engl. Precision-Time-Diagram).</em>
@@ -92,15 +92,16 @@ The goal of this thesis was to apply instance segmentation (supervised) in a dev
 
 - Fig. 6 illustrates the quantitative image analysis of the blastomeres volumes, just before the third cleavage of the second embryo
 
-<div align="center">
-    <img src="figures/Oocyte_.png" alt="" width="500" height="450"/>
-</div>
-<div align="center">
-    <img src="figures/AB_CD.png" alt="" width="500" height="450"/>
-</div>
-<div align="center">
-    <img src="figures/A_B_C_D.png" alt="" width="500" height="450"/>
-</div>
+<table align="center">
+<tr>
+<td align="center"><img src="figures/Oocyte_.png" alt="" width="350" height="320"/></td>
+<td align="center"><img src="figures/AB_CD.png" alt="" width="350" height="320"/></td>
+</tr>
+<tr>
+<td align="center"><img src="figures/A_B_C_D.png" alt="" width="350" height="320"/></td>
+<td></td>
+</tr>
+</table>
 <div align="center">
     <em>Fig. 6: Left: Zygote before the first splits. Middle: Both blastomeres of the first division (AB & CD). Right: Four blastomeres of the second division (A & B & C & D).</em>
 </div>
@@ -109,18 +110,16 @@ The goal of this thesis was to apply instance segmentation (supervised) in a dev
 
 - Fig. 7 demonstrates the third split during the early embryogenesis in both embryos (A>1A&1a; B>1B&1b; C>1C&1c; D>1D&1d) in both embryos (Left: Embryo 1 & Right: Embryo 2)
 
-<div align="center">
-    <img src="figures/1A_1a_1A_1a_.png" alt="" width="500" height="450"/>
-</div>
-<div align="center">
-    <img src="figures/1B_1b_1B_1b_.png" alt="" width="500" height="450"/>
-</div>
-<div align="center">
-    <img src="figures/1C_1c_1c1_1c2_.png" alt="" width="500" height="450"/>
-</div>
-<div align="center">
-    <img src="figures/1D_1d_1D_1d_.png" alt="" width="500" height="450"/>
-</div>
+<table align="center">
+<tr>
+<td align="center"><img src="figures/1A_1a_1A_1a_.png" alt="" width="350" height="320"/></td>
+<td align="center"><img src="figures/1B_1b_1B_1b_.png" alt="" width="350" height="320"/></td>
+</tr>
+<tr>
+<td align="center"><img src="figures/1C_1c_1c1_1c2_.png" alt="" width="350" height="320"/></td>
+<td align="center"><img src="figures/1D_1d_1D_1d_.png" alt="" width="350" height="320"/></td>
+</tr>
+</table>
 <div align="center">
     <em>Fig. 7: Embryo Comparison.</em>
 </div>
