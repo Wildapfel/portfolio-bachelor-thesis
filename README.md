@@ -79,10 +79,10 @@ The goal of this thesis was to apply instance segmentation (supervised) in a dev
 - The maximum spatial distribution (in µm³) of the tracked blastomeres in embryo 2 mapped onto the cell lineage (from tracking).
 
 <div align="center">
-    <img src="figures/zelllinienstammbaum_e2_01.png" alt="" width="600" height="550"/>
+    <img src="figures/zelllinienstammbaum_e2_01.png" alt="" width="700" height="650"/>
 </div>
 <div align="center">
-    <img src="figures/zelllinienstammbaum_e2_02.png" alt="" width="600" height="550"/>
+    <img src="figures/zelllinienstammbaum_e2_02.png" alt="" width="700" height="650"/>
 </div>
 <div align="center">
     <em>Fig. 5: Spatial distribution (in µm³) of the tracked blastomeres.</em>
